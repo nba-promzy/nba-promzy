@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Promzy Logo" style="width:150px; border-radius:50%; border:3px solid #00ff00; box-shadow:0 0 15px #00ff00;">
   
-  <
+  
 ### **MY PROJECTS**  
 *(Hover for cyber-effects!)*
 
