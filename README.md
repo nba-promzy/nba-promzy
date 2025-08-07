@@ -41,8 +41,6 @@
 --- 
 
 <footer style="text-align:center; margin-top:50px; color:#888; font-size:0.9em;">
-  © 2023 CyberWizards | All Rights Reserved | Designed with Magic & Code
-</footer>
 
 <style>
   body {
