@@ -1,14 +1,7 @@
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Promzy Logo" style="width:150px; border-radius:50%; border:3px solid #00ff00; box-shadow:0 0 15px #00ff00;">
   
-  <h1 style="color:#ff00ff; text-shadow:0 0 10px #ff00ff; font-size:2.5em;">PROMZY</h1>
-  <div style="position:relative;">
-    <h2 style="color:#00ffff; border-bottom:1px dashed #00ffff; padding-bottom:10px;">CEO OF CYBERWIZARDS</h2>
-  </div>
-</div>
-
----
-
+  <
 ### **MY PROJECTS**  
 *(Hover for cyber-effects!)*
 
