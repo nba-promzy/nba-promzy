@@ -1,3 +1,0 @@
-# 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!
-🚀 I’m the creator of <a href="https://oligotech.vercel.app" target="_blank" style="display: inline-block; background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">
-Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
